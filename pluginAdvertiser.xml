@@ -207,6 +207,11 @@
                       <FeaturePluginData displayName="XSLT" pluginName="XPathView + XSLT" pluginId="XPathView" />
                     </value>
                   </entry>
+                  <entry key="com.poratu.idea.plugins.tomcat">
+                    <value>
+                      <FeaturePluginData displayName="Smart Tomcat" pluginName="Smart Tomcat" pluginId="com.poratu.idea.plugins.tomcat" />
+                    </value>
+                  </entry>
                   <entry key="uTestRunConfiguration">
                     <value>
                       <FeaturePluginData displayName="utest" pluginName="Scala" pluginId="org.intellij.scala" />
