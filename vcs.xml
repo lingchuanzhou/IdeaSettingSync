@@ -6,6 +6,10 @@
           <option name="url" value="https://github.com/zhangdaiscott/jeecg-boot.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://120.132.224.119:666" />
+          <option name="userName" value="lingchuanzhou@cmbyc.com" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\admin\IdeaProjects" />
